@@ -30,6 +30,14 @@ Our framework introduces **PaTESO (Parallel Transport of Embeddings via Subspace
 
 ## 🏗️ Methodology
 
+### 0.
+
+<div align="center">
+
+[![New paradigm](./figs/figure-1.pdf)
+
+</div>
+
 ### 1. The Attention Manifold
 We model the interaction between tokens $n$ and $m$ as **Parallel Transport** $\mathcal{P}_{n \to m}$ along a geodesic. The transport operator is factorized into a flat component and a curvature component:
 
