@@ -32,9 +32,9 @@ Our framework introduces **PaTESO (Parallel Transport of Embeddings via Subspace
 
 ### 0.
 
-<div align="center">
+ <div align="center">
 
-![New paradigm](./figs/figure-1.png)
+<img src="./figs/figure-1.png" width="50%" alt="New paradigm">
 
 </div>
 
