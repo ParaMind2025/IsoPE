@@ -34,7 +34,7 @@ Our framework introduces **PaTESO (Parallel Transport of Embeddings via Subspace
 
 <div align="center">
 
-[![New paradigm](./figs/figure-1.pdf)
+[![New paradigm]](./figs/figure-1.pdf)
 
 </div>
 
